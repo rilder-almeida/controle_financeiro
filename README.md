@@ -17,23 +17,26 @@ Com esta planilha automatizada é possivel realizar uma ambrangente gestão fina
 Desenvolvido usando linguagem DAX e JavaScript
 
 ## Screeshots
-- Lançamento de Vendas e Entradas
-- Lançamento de Gastos e Saídas
+Lançamento de Vendas e Entradas <br>
+Lançamento de Gastos e Saídas
+<br>
 <img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/entradas_lancamento.png" width="300"/><img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/saidas_lancamento.png" width="300"/>
 <br>
-- Análise Anual
+Análise Anual
 <br>
-<img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/anual_1.png" width="300"/><img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/anual_2.png" width="300"/>
+<img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/anual_1.png" width="300"/><br>
+<img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/anual_2.png" width="300"/>
 <br>
- - Análise Mensal
+Análise Mensal
 <br>
-<img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/mensal_1.png" width="300"/><img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/mensal_2.png" width="300"/>
+<img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/mensal_1.png" width="300"/><br>
+<img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/mensal_2.png" width="300"/>
 <br>
-- Análise de Vendas
+Análise de Vendas
 <br>
 <img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/vendas.png" width="300"/>
 <br>
-- Análise de Gastos
+Análise de Gastos
 <br>
 <img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/gastos.png" width="300"/>
 
