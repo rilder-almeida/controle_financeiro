@@ -16,6 +16,27 @@ Com esta planilha automatizada é possivel realizar uma ambrangente gestão fina
 
 Desenvolvido usando linguagem DAX e JavaScript
 
+## Screeshots
+- Lançamento de Vendas e Entradas
+- Lançamento de Gastos e Saídas
+<img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/entradas_lancamento.png" width="300"/><img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/saidas_lancamento.png" width="300"/>
+<br>
+- Análise Anual
+<br>
+<img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/anual_1.png" width="300"/><img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/anual_2.png" width="300"/>
+<br>
+ - Análise Mensal
+<br>
+<img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/mensal_1.png" width="300"/><img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/mensal_2.png" width="300"/>
+<br>
+- Análise de Vendas
+<br>
+<img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/vendas.png" width="300"/>
+<br>
+- Análise de Gastos
+<br>
+<img src="https://github.com/rilder-almeida/controle_financeiro/raw/master/images/gastos.png" width="300"/>
+
 ## Instalação
 
 #### 1. [Clique aqui para criar uma cópia do arquivo já populado](https://docs.google.com/spreadsheets/d/1wDG0SWy7wWzbR9HcTIB1jykF9ES3MReK85lfSDDlbio/copy)
