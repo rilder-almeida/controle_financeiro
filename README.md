@@ -14,7 +14,7 @@ Controle Econômico e Financeiro é um sistema de gerenciamento de financeiro e 
 
 Com esta planilha automatizada é possivel realizar uma ambrangente gestão financeira-econômica de uma microempresa, que tem como objetivo, além do controle administrativo, a geração de relatórios e visualização de dados. Tem sido usado por restaurantes, buffets, confeitaria, cozinhas de produção e empresas de outros ramos por mais de 2 anos e é uma das ferramentas principais na realização da Consultoria em gestão para restaurante da empresa Avance.
 
-Desenvolvido usando linguagem DAX e JavaScript
+> Desenvolvido usando linguagem DAX e JavaScript
 
 ## Screeshots
 Lançamento de Vendas e Entradas <br>
